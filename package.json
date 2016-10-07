@@ -1,7 +1,7 @@
 {
-  "name": "react-node-starter",
+  "name": "scm-website",
   "version": "0.2.0",
-  "description": "an example for deploying a React + NodeJS app to Heroku",
+  "description": "Official website for scm solicitors limited",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -17,6 +17,8 @@
     "babel-preset-react": "^6.5.0",
     "css-loader": "^0.23.1",
     "express": "^4.13.4",
+    "file-loader": "^0.9.0",
+    "image-webpack-loader": "^2.0.0",
     "node-sass": "^3.4.2",
     "react": "^15.0.1",
     "react-dom": "^15.0.1",
